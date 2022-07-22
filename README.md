@@ -1,9 +1,6 @@
 
 <p align="center">
-  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+oeuf"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=I'm+a+20YO+Front-end+developer+and+engineering+student"></a>
+  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello%2C+I'm+oeuf!+a+20YO+Front-end+developer+and+engineering+student)](https://git.io/typing-svg"></a>
 </p>
 
 
