@@ -3,7 +3,7 @@
   <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+oeuf."></a>
 </p>
 <p align="center">
-  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=A+20yo+Front-end+developer"></a>
+  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=A+20yo+Front-end+developer."></a>
 </p>
 
 <h1 align="center">TECHNOLOGIES I'M USING/GOOD AT</h1>
