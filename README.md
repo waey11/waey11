@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello%2C+I'm+oeuf!)](https://git.io/typing-svg"></a>
+  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+oeuf."></a>
 </p>
 
 
