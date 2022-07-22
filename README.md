@@ -3,7 +3,7 @@
   <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+oeuf"></a>
 </p>
 <p align="center">
-  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=I'm+a+20YO+Front-end+developer+and+engineering+student"></a>
 </p>
 
 
