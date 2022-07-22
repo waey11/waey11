@@ -1,10 +1,11 @@
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="[https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3](http://readme-typing-svg.herokuapp.com?lines=hello!;welcome+to+my+github+page)"></a>
+  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+oeuf"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="[[https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3](http://readme-typing-svg.herokuapp.com?lines=hello!;welcome+to+my+github+page)](http://readme-typing-svg.herokuapp.com?lines=a+20+year+old+front-end+developer%2C+and+engineering+student)"></a>
+  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/oeuf16)"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
 </p>
+
 
 <h1 align="center">TECHNOLOGIES I'M USING/GOOD AT</h1>
 
