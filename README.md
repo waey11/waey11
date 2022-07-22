@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Oeuf</h1>
-<h4 align="center">a 20yo freelance front-end web developer and engineering student</h4>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?lines=hello!;welcome+to+my+github+page)](https://git.io/typing-svg)
+  [![Typing SVG](http://readme-typing-svg.herokuapp.com?lines=a+20+year+old+front-end+developer%2C+and+engineering+student)](https://git.io/typing-svg)
 </div>
 
 
