@@ -4,7 +4,7 @@
   
   <br>  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=I'm+A+20yo+Front-end+developer."></a>
 
-
+</p>
 <h1 align="center">TECHNOLOGIES I'M USING/GOOD AT</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
