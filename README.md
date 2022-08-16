@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <a  href="https://github.com/oeuf16"><img align="center" src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+A+20yo+Front-end+dev!"></a>
+  <a  href="https://github.com/oeuf16"><img  src="http://readme-typing-svg.herokuapp.com?lines=Hello!+I'm+A+20yo+Front-end+dev!"></a>
 </p>
 
 <h1 align="center">TECHNOLOGIES I'M USING/GOOD AT</h1>
