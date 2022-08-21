@@ -27,6 +27,6 @@
 
 <h1 align="center">WHAT I'VE BEEN LISTENING TO</h1>
 
- [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
+ [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee&width=600)](https://www.last.fm/user/addiiiieee)
 
 
