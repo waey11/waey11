@@ -25,4 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
+<h1 align="center">WHAT I'VE BEEN LISTENING TO</h1>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)
+
 
