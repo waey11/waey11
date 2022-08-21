@@ -26,7 +26,7 @@
 </p>
 
 <h1 align="center">WHAT I'VE BEEN LISTENING TO</h1>
-<div align="center">
+
  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
 
-</div>
+
