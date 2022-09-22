@@ -1,7 +1,11 @@
 
+<p align="center">
+  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=HELLO! I'M OEUF"></a>
+  
+
+</p>
 
 
-<h1 align="center">HELLO, I'm oeuf :wave:</h1>
 <h1 align="center">I'M A FRONT-END DEVELOPER CURRENTLY LOOKING FOR NEW OPPORTUNITIES.</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
