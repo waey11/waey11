@@ -5,10 +5,28 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;Crrently+looking +for+new+opportunities;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a></p>
 
 
+<p align="center">
 
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
 
-<!-- Social icons section --><p align="center"><a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Facebook" src="https://www.flaticon.com/free-icons/facebook"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a></p><br/>
-
+</p>
 
 
 
