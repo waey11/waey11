@@ -30,5 +30,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
 
-<h2> What I'm listening to </h2>
+<h3> What I'm listening to </h3>
+
+
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
