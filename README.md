@@ -30,7 +30,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
 
-<h3> What I'm listening to </h3>
+<h3> What I'm listening to ![image](https://user-images.githubusercontent.com/93136950/191771671-b84e8f86-06d1-4ad0-9666-80c871ea9112.png)
+</h3>
 
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
