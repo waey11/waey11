@@ -30,9 +30,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
 
-<h3> What I'm listening to <img src="https://user-images.githubusercontent.com/93136950/191772632-ba56064c-d858-4a9d-9892-99e1ca7159e5.png" width="30px">
-</h3>
-
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
-</div>
-
