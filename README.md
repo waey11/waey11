@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=HELLO!"></a>
-  
+  <br>
   <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=I'M+OEUF"></a>
 
 </p>
