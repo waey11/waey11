@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I'm a Front-end developer currently looking for new opportunities.</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm a Front-end developer;Currently lookinf for new opportunities)](https://git.io/typing-svg)
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Languages and Tools I'm using :</h3>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
