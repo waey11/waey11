@@ -29,3 +29,6 @@
 <a href="https://github.com/anuraghazra/oeuf16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
+
+
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
