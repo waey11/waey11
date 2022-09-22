@@ -10,7 +10,7 @@
 
 
 
-<h3> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left"><img src="https://user-images.githubusercontent.com/93136950/191763645-1afa97a9-29e0-4385-80f8-2208fe8ba21b.png" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:3rem; background-color:white"/>
 <img src="https://user-images.githubusercontent.com/93136950/180482244-addddf2b-a96e-49f7-822b-cfa38ebb9e0e.png" style="height: 3rem"/>
