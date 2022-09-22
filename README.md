@@ -11,8 +11,9 @@
 
 
 
+
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Languages and Tools I'm using :</h3>
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/93136950/191763645-1afa97a9-29e0-4385-80f8-2208fe8ba21b.png" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
 <img src="https://user-images.githubusercontent.com/93136950/180482244-addddf2b-a96e-49f7-822b-cfa38ebb9e0e.png" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
