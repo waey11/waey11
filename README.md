@@ -1,13 +1,7 @@
 
-<p align="center">
-  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=HELLO!"></a>
-  <br>
-  <a href="https://github.com/oeuf16"><img src="http://readme-typing-svg.herokuapp.com?lines=I'M+OEUF"></a>
+<h1 align="center">Hi 👋, I'm oeuf</h1>
+<h3 align="center">I'M A FRONT-END DEVELOPER CURRENTLY LOOKING FOR NEW OPPORTUNITIES.</h3>
 
-</p>
-
-
-<h1 align="center">I'M A FRONT-END DEVELOPER CURRENTLY LOOKING FOR NEW OPPORTUNITIES.</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
