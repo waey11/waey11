@@ -24,4 +24,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 2rem"/>
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?oeuf16=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
