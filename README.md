@@ -2,7 +2,7 @@
 
 
 <h1 align="center">HELLO, I'm oeuf :wave:</h1>
-<h1 align="center">I'M A FRONT-END DEVELOPER CURRENTLY LOOKING FOR NEW OPPORTUNITIES opportunities</h1>
+<h1 align="center">I'M A FRONT-END DEVELOPER CURRENTLY LOOKING FOR NEW OPPORTUNITIES.</h1>
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
