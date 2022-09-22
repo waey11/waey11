@@ -30,9 +30,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
 
-<h3> What I'm listening to <img src="" width="30px">
+<h3> What I'm listening to <img src="https://user-images.githubusercontent.com/93136950/191772401-e6915b6d-4cdd-4d45-a7ba-30f143e96e56.png" width="30px">
 </h3>
-<a href="https://www.flaticon.com/free-animated-icons/music" title="music animated icons">Music animated icons created by Freepik - Flaticon</a>
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
 </div>
