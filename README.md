@@ -5,7 +5,6 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;looking +for+new+opportunities;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a></p>
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <div align="center">
@@ -35,5 +34,5 @@
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=addiiiieee)](https://www.last.fm/user/addiiiieee)
 </div>
-<img align="right" width=200px height=200px alt="side_sticker" src="[https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif](https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
