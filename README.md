@@ -9,10 +9,12 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
      
-<p align="left"> <a href="https://twitter.com/add1eee" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+
 
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/add1eee">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
