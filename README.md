@@ -24,11 +24,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 3rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 3rem"/>
-</p>
-
-
 
 <a href="https://github.com/anuraghazra/oeuf16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oeuf16&hide=stars,issues,prs,issues,contribs&show_icons=true&theme=onedark" style="height: 8rem"/>
 </a>
+</p>
+
+
+
+
 
