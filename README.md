@@ -4,7 +4,7 @@
 
 
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Im%20waey%20:);Front-end%20%20developer;UX%20and %20User%20Interface%20Designer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://64.media.tumblr.com/6e4fa2893126567bb934c50bb24f65e3/tumblr_nkvd9zTuNE1unrrm6o1_400.gif" />
+<img align="right" width=200px height=200px src="https://64.media.tumblr.com/6e4fa2893126567bb934c50bb24f65e3/tumblr_nkvd9zTuNE1unrrm6o1_400.gif" />
 
 </p>
 
